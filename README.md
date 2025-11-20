@@ -46,3 +46,7 @@ Classification Modeling:
 - Customer behavior patterns
 
 - Most influential features across models
+
+## 📌 Goal
+
+To demonstrate practical machine learning skills applied to real-world e-commerce data, supporting business decisions like pricing, marketing strategy, and customer segmentation.
