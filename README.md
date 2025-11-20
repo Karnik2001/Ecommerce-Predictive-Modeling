@@ -18,7 +18,10 @@ Predictive Modeling (Regression):
 
 - KNN Regressor
 
-- Classification Modeling: Decision Tree & Random Forest Classifiers for predicting customer ratings
+Classification Modeling:
+- Decision Tree Classifer
+- Random Forest Classifier
+- KNN Classifier
 
 - Model Evaluation: RMSE, R², accuracy, confusion matrix, feature importance
 
