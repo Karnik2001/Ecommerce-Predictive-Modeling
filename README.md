@@ -50,3 +50,17 @@ Classification Modeling:
 ## 📌 Goal
 
 To demonstrate practical machine learning skills applied to real-world e-commerce data, supporting business decisions like pricing, marketing strategy, and customer segmentation.
+
+## Citations
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
