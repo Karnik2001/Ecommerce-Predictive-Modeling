@@ -1,4 +1,4 @@
-# Ecommerce-Predictive-Modeling
+# Ecommerce Predictive Modeling
 
 This project analyzes e-commerce customer data to uncover insights and build predictive models for improving business decision-making. It includes exploratory data analysis (EDA), regression models, and classification models to understand purchase behavior and customer ratings.
 
